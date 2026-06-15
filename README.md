@@ -1,4 +1,4 @@
-# Left Arm Bicep Curl Counter (AI Pose Estimation)
+# Arm Bicep Curl Counter (AI Pose Estimation)
 
 ## Overview
 This project is a computer vision-based fitness tracker that counts **left-arm bicep curls** using pose estimation. It uses MediaPipe-based pose detection (via a custom PoseModule) to track key body joints and calculate elbow angles in real time.
