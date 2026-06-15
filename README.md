@@ -11,7 +11,7 @@ The system detects workout motion, computes joint angles, and counts repetitions
 - Left arm bicep curl counting
 - Real-time pose detection
 - Elbow angle calculation
-- Smooth angle filtering (noise reduction)
+- Smooth angle filtering (noise reduction) using Exponential Moving Average (EMA) filter
 - Robust rep counting using state machine logic
 - Progress bar visualization
 - FPS display for performance monitoring
